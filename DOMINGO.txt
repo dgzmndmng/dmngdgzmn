@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>Domingo De guzman</title>
+ </head>
+
+<body class="bodybg">
+   <center><header><img src="SATBanner.png" border="3"></header>
+<style>
+body {margin:0;}
+
+.bodybg {
+     height: 1000px;
+     background: linear-gradient(to bottom, #ff99cc 25%, #003366 100%);
+}
+
+.topnav {
+    background-color: linear-gradient(to bottom, #ff99cc 25%, #003366 100%);
+    overflow: hidden;
+}
+
+.topnav a {
+  float: center;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+</style>
+<div class="topnav" id="Navigation">
+  <a href="SATHome.html">Home</a>
+  <a class="active" href="#Members">Profile</a>
+  <a href="SATInfo.html">Activities</a>
+  <a href="SATLaws.html">Constitutional & Bylaws</a>
+</div>
+</center>
+
+<center>
+<h1>MAMATOM:</h1>
+<font size="14" color="white"><left>PHOTOS</font>
+<br>
+<p1>Domingo De Guzman</p1>
+
+
+hobbyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+<html>
+<head>
+<body>
+<title>Hobbies</title>
+
+
+<center>
+</style>
+<div class="topnav" id="Navigation">
+  <a href="dprofile.html">Profile</a>
+  <a href="Website.html">Websites</a>
+  <a href="dhobbies.html">Hobbies</a>
+  <a href="Image Collection.html">Image Collection</a>
+</div>
+</center>
+
+
+<h1>"Guitar"</h1>
+<img src="guitar.jpg" width="450" height="400">
+<p1>"playing guitar is my hobby, I play guitar in my past time, if I have problem though this i can express my feeling in this way..</p1>
+
+
+<body Background="hobby2.jpg" width="500" height="500">
+
+
+<h1>"Basketball"</h1>
+<img src="lebron.jpg" width="450" height="400">
+<p1>"I also like to play basketball, sometimes if we have free time we play basketball with my friends"</p1>
